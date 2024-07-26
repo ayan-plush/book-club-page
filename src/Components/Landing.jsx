@@ -7,8 +7,9 @@ function Landing() {
   return (
     <div className='pt-[10vh] '>
       <a href="https://drive.google.com/drive/folders/1v8Mp1UyNP4hvMszvXOoqpGU4mf8JdvLv?usp=drive_link" className="text-[10vh] text-[#47382B] flex justify-center tracking-tight font-[impacted]  font-bold ">JOIN US</a>
+      <h7 className="flex justify-center text-[2vh]">READ CONNECT DO MORE</h7>
       <div className=' flex justify-center'>
-        <img src='/assets/theeye.png' className='h-[45vh] w-[45vh]'></img>
+        <img src='/assets/theeye1.png' className='h-[45vh] w-[45vh]'></img>
       </div> 
     </div>
   )

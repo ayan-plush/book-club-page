@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './Components/Navbar'
 import Landing from './Components/Landing'
 import Marquee from './Components/Marquee'
+import End from './Components/End'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbar/>
       <Landing/>
       <Marquee/>
+      <End/>
     </div>
   )
 }
