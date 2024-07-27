@@ -17,7 +17,7 @@ const Ourpicks=()=> {
         "/assets/al3.jpg",
     ];
   return (
-    <div className=' w-full'>
+    <div className=' w-full px-[5vh]'>
       <div className="picks">
         <div className="books flex py-[5vh] justify-center">
         {book.map((image,index)=>{
