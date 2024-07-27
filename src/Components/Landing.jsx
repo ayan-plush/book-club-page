@@ -6,10 +6,10 @@ import { Link } from 'react-router-dom';
 function Landing() {
   return (
     <div className='pt-[5vh] '>
-      <a href="https://drive.google.com/drive/folders/1v8Mp1UyNP4hvMszvXOoqpGU4mf8JdvLv?usp=drive_link" className="text-[10vh] text-[#47382B] flex justify-center tracking-tight font-[impacted] font-bold ">
-      <img src='/assets/JOINUS.png' className='h-[9.75vh] w-[28.5vh]'></img>
+      <a href="https://forms.gle/7wtz3nwse96pwXCCA" className="text-[10vh] text-[#47382B] flex justify-center tracking-tight font-[impacted] font-bold ">
+      <img src='/assets/JOINUS.png' className='h-[9.75vh] border-b-[0.1vh] border-b-[#47362D] w-[28.5vh]'></img>
       </a>
-      <h7 className="flex justify-center text-[2vh]">READ CONNECT DO MORE</h7>
+      <h7 className="flex justify-center font-bold text-[#907e5a] text-[1.5vh] tracking-tighter ">READ CONNECT DO MORE</h7>
       <div className=' flex justify-center'>
         <img src='/assets/theeye1.png' className='h-[45vh] w-[45vh]'></img>
       </div> 
