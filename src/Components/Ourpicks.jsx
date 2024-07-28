@@ -21,7 +21,7 @@ const Ourpicks=()=> {
       <div className="picks">
         <div className="books flex py-[5vh] justify-center">
         {book.map((image,index)=>{
-      return <img className="h-[20vh]  w-[18vh] px-[1.5vh]" src={image} key={index}/>
+      return <img className="h-[22vh]  w-[18vh] px-[1.5vh]" src={image} key={index}/>
         }
         )}
         </div>
