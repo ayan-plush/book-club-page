@@ -8,6 +8,7 @@ function Navbar() {
       
     <Link to="/" className="text-[2vh] ">HOME</Link>
     <Link to="/aboutus" className="text-[2vh] ">ABOUT US</Link>
+    <Link to="https://forms.gle/7wtz3nwse96pwXCCA" className="text-[2vh] ">JOIN US</Link>
       
     </div>
     </div>
