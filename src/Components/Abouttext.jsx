@@ -17,7 +17,7 @@ LitWink is founded on three fundamental beliefs:<br/><br/>
 . Human Connections Matter: Every book exchange is an opportunity for dialogue, empathy, and mutual understanding. We are not just a technological platform, but a living, breathing community where stories connect people across demographics, geographies, and lived experiences.<br/><br/>
 . Mutual Consciousness is Our Highest Value: When we read, we expand beyond our individual selves. We become part of a larger narrative—a collective consciousness that transcends individual perspectives and builds bridges of empathy and understanding.<br/><br/>
 
-LitWink is more than an app. We are a movement. A reimagining of how stories can unite us, how knowledge can liberate us, and how human connections can transform our understanding of ourselves and each other.
+We are a movement. A reimagining of how stories can unite us, how knowledge can liberate us, and how human connections can transform our understanding of ourselves and each other.
 Join us in turning the page towards a more connected, empathetic world.
 
 
