@@ -5,29 +5,29 @@ import End from './End'
 function Abouttext(){
   return (
     <div className=' overflow-hidden'>
-        <div className='flex justify-center'>
-        <img src='/assets/logo.jpg' className='h-[40vh] py-[5vh] w-[30vh]'></img>
-        </div>
-      <div className=' text-[2vh] tracking-wide px-[4.3vh] uppercase font-light text-center w-full'>
-      Welcome to Sahitya Book Club, a warm and close-knit community of passionate readers hailing from diverse backgrounds, all united by a shared love for literature. At Sahitya, we believe that books are more than just stories; they are bridges that connect us across cultures, experiences, and generations. Our members come from every walk of life, each bringing unique perspectives that enrich our discussions and deepen our understanding of the world.
-
-Each month, we come together to explore a thoughtfully curated selection of books, spanning from timeless classics to contemporary gems. Our gatherings are more than book discussions—they are vibrant conversations where ideas are exchanged, friendships are forged, and minds are opened. Whether we are delving into the intricacies of a literary masterpiece or discovering the hidden treasures of an emerging author, our aim is to foster a sense of belonging and mutual respect among our members.
-
-At Sahitya Book Club, we celebrate the power of stories to inspire, challenge, and transform us. We invite you to join us on this literary journey, to share your insights, listen to others, and become a part of our vibrant community. Together, let's explore the boundless world of literature and create lasting memories through the pages we turn.
-
-
-
-
-
-
-
+        <div className='text-[5vh] font-light text-center mt-[1vh] flex justify-center uppercase  tracking-widest text-[#47382B]'>
+        <h1 className='font-semibold font-mono tracking-tighter mb-[1vh]'>OUR PURPOSE</h1>
       </div>
-      <div className='text-[5vh] font-light text-center mt-[5vh] flex justify-center uppercase  tracking-widest text-[#47382B]'>
-        <h1>OUR current favourites</h1>
+      <div className=' text-[2vh] tracking-wide text-left  px-[10vh] mb-[5vh] uppercase  w-full'>
+      At Sahitya, we believe that books are more than pages bound together—they are portals of human understanding, bridges between minds, and catalysts for connection.
+In a world increasingly fragmented by digital isolation, we are reimagining the book as a living, breathing conduit of human experience. Our platform is not just about lending books; it's about creating a vibrant third space where stories flow freely, where strangers become companions, and where knowledge transcends physical and social boundaries.
+We celebrate the profound intimacy of shared consciousness—the magical moment when a reader discovers their own reflection in another's words, or when a borrowed book carries the subtle imprints of previous readers, each margin note and dog-eared page a whisper of shared humanity.
+LitWink is founded on three fundamental beliefs:<br/><br/>
+. Knowledge Should Be Accessible: Books are not commodities to be hoarded, but living resources to be circulated, shared, and experienced collectively. We remove barriers to access, making literature a universal commons.<br/><br/>
+. Human Connections Matter: Every book exchange is an opportunity for dialogue, empathy, and mutual understanding. We are not just a technological platform, but a living, breathing community where stories connect people across demographics, geographies, and lived experiences.<br/><br/>
+. Mutual Consciousness is Our Highest Value: When we read, we expand beyond our individual selves. We become part of a larger narrative—a collective consciousness that transcends individual perspectives and builds bridges of empathy and understanding.<br/><br/>
+
+LitWink is more than an app. We are a movement. A reimagining of how stories can unite us, how knowledge can liberate us, and how human connections can transform our understanding of ourselves and each other.
+Join us in turning the page towards a more connected, empathetic world.
+
+
+
+
+
+
       </div>
       <Ourpicks/>
       <div><End/></div>
-      
     </div>
   )
 }
